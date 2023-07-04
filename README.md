@@ -1,3 +1,3 @@
-# demo_app5
+# Demo Project for Inputs Validation in Flutter
 
-A new Flutter project.
+A Flutter project for demonstrating how to apply input validations in Flutter.
